@@ -58,3 +58,10 @@ npx playwright test
 
 ## الملفات
 `index.html` · `404.html` · `assets/css/style.css` · `assets/js/main.js` · `assets/img/*` · `favicon.svg` · `tests/site.spec.ts` · `playwright.config.ts` · `sales-message.md` · `DESIGN-QUALITY-REPORT.md` · `.nojekyll`
+
+---
+## 🚀 النشر والاختبار
+- **الرابط:** https://az212z.github.io/rewaya-flowers/ · **المستودع:** https://github.com/az212z/rewaya-flowers
+- **Playwright:** ✅ status 200، صفر أخطاء console، قائمة جوال ملء الشاشة، لا تمرير أفقي، صفر صور مكسورة. موشن فلوريست (بتلات + bloom + ken-burns).
+- **Lighthouse:** الأداء 81 · الوصولية 95 · أفضل الممارسات 100 · SEO 100
+- **التقييم (قوقل):** 4.8 (310) · **المدينة:** الطائف · **Backend:** غير مربوط · **الصور:** حقيقية من خرائط قوقل، مُنقّاة (استبعاد لافتات المنافسين).
